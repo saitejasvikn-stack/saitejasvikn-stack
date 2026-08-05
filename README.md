@@ -26,7 +26,7 @@ Currently in my 4th semester of **AI & ML at Cambridge Institute of Technology, 
 - 🔗 Building **VeraChain** — a decentralised blockchain data verification system (Samsung SeedBrains 2026)
 - 🤖 Deepening my work in **Physical AI** after reaching the National Hardware Finals at Robothon 2026
 - 📖 Completing **NVIDIA DLI: AI on Jetson Nano** — edge AI deployment with deep learning
-- 🎯 Active candidate for **Microsoft Learn Student Ambassadors (MLSA)**
+
 
 ---
 
@@ -185,9 +185,7 @@ Cambridge Institute of Technology — 2024–Present
 
 ---
 
-## 🎵 Beyond the screen
 
-Carnatic classical singer — Junior Enrolled at **Gangubai Hangal School of Music** (University Level). Formal classical training in one of India's most rigorous musical traditions. The same discipline it takes to hold a raga carries over to debugging a stabilisation loop at 2am.
 
 ---
 
